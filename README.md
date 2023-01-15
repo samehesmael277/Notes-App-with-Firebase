@@ -1,4 +1,4 @@
-# Notes-App-with-Firebase
+# Notes-App-with-Firebase-Firestore
 
 
 <br>
